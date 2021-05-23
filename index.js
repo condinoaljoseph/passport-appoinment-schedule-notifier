@@ -20,7 +20,7 @@ const config = {
 	data: data
 };
 
-const task = cron.schedule('*/1 * * * *', () => {
+const task = cron.schedule('*/10 * * * *', () => {
 	console.log(
 		'Checking available dates on Cebu (Pacific Mall Metro Mandaue, Cebu) DFA Regional Consular Office – Cebu'
 	);

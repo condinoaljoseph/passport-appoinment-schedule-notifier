@@ -2,7 +2,7 @@
 Notifies me when there is an available appointment schedule for passport on DFA regional office.
 
 ## Setting up
-Make sure you have nodejs installed on your computer.
+Make sure you have nodejs installed on your computer. Clone the repository. Then...
 
 ```bash
 npm i

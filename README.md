@@ -1,13 +1,12 @@
 # passport-appoinment-schedule-notifier
 Notifies me when there is an available appointment schedule for passport on DFA regional office.
 
-## Setting up
+## setting up
 Make sure you have nodejs installed on your computer. Clone the repository. Then...
 
 ```bash
 npm i
 ```
-
 ## Payload
 You can see through `data.json` to know your site id and edit this code on `index.js`
 
@@ -25,4 +24,7 @@ const data = qs.stringify({
 ```bash
 node index.js
 ```
+
+## bug fixed certificate chain issue
+https://stackoverflow.com/a/60020493/9043355
 

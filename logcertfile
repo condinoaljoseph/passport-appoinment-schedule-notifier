@@ -1,0 +1,79 @@
+CONNECTED(00000005)
+---
+Certificate chain
+ 0 s:C = PH, L = Quezon City, O = "APO Production Unit, Inc.", OU = Passport Division, CN = *.passport.gov.ph
+   i:C = US, O = DigiCert Inc, CN = DigiCert SHA2 Secure Server CA
+-----BEGIN CERTIFICATE-----
+MIIGwTCCBamgAwIBAgIQB8ANjjg4zTfgsQOSsRHh+jANBgkqhkiG9w0BAQsFADBN
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMScwJQYDVQQDEx5E
+aWdpQ2VydCBTSEEyIFNlY3VyZSBTZXJ2ZXIgQ0EwHhcNMjAwNTE0MDAwMDAwWhcN
+MjIwODA1MTIwMDAwWjB/MQswCQYDVQQGEwJQSDEUMBIGA1UEBxMLUXVlem9uIENp
+dHkxIjAgBgNVBAoTGUFQTyBQcm9kdWN0aW9uIFVuaXQsIEluYy4xGjAYBgNVBAsT
+EVBhc3Nwb3J0IERpdmlzaW9uMRowGAYDVQQDDBEqLnBhc3Nwb3J0Lmdvdi5waDCC
+ASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALs878g4l5Vd4pii/TQDyPrq
+4968bHrzgcAhWhgKocv6G1AADD0J4Bg9IKucvm9TyGKZE51iZ+nzdEKqLBX4vbjn
+VgDQxENAZdplq48DC34pQdtX3F4IfGaafFqFtToLvER0UVF3nXBpYi4/JzaYm96l
+Gbfs9dqXNdX9t/n96okUbcJSGmbnGX7hZ2rBRn1Xdvm2tNiwHxP5HlpCiKWonhV3
+gWfbP0hU8MGGRZDft7SBJhEGlLgVyA52sTQCAvtHhiCh2LtL2uKl7hSLHm4wshOh
+rkquYCYYg3Nx+ne4RhXSvvVJoshtfuqUTsj8JqCZCv9pR0Hg2G2cG2/cRZ5PFl8C
+AwEAAaOCA2kwggNlMB8GA1UdIwQYMBaAFA+AYRyCMWHVLyjnjUY4tCzhxtniMB0G
+A1UdDgQWBBT4qIeB/47x03tgXtx9o941sGFqHzAtBgNVHREEJjAkghEqLnBhc3Nw
+b3J0Lmdvdi5waIIPcGFzc3BvcnQuZ292LnBoMA4GA1UdDwEB/wQEAwIFoDAdBgNV
+HSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwawYDVR0fBGQwYjAvoC2gK4YpaHR0
+cDovL2NybDMuZGlnaWNlcnQuY29tL3NzY2Etc2hhMi1nNi5jcmwwL6AtoCuGKWh0
+dHA6Ly9jcmw0LmRpZ2ljZXJ0LmNvbS9zc2NhLXNoYTItZzYuY3JsMEwGA1UdIARF
+MEMwNwYJYIZIAYb9bAEBMCowKAYIKwYBBQUHAgEWHGh0dHBzOi8vd3d3LmRpZ2lj
+ZXJ0LmNvbS9DUFMwCAYGZ4EMAQICMHwGCCsGAQUFBwEBBHAwbjAkBggrBgEFBQcw
+AYYYaHR0cDovL29jc3AuZGlnaWNlcnQuY29tMEYGCCsGAQUFBzAChjpodHRwOi8v
+Y2FjZXJ0cy5kaWdpY2VydC5jb20vRGlnaUNlcnRTSEEyU2VjdXJlU2VydmVyQ0Eu
+Y3J0MAwGA1UdEwEB/wQCMAAwggF8BgorBgEEAdZ5AgQCBIIBbASCAWgBZgB2ACl5
+vvCeOTkh8FZzn2Old+W+V32cYAr4+U1dJlwlXceEAAABchDhpKgAAAQDAEcwRQIg
+XriggxVoncJ051AgiJ9Rc5vu1QH6Ib8gqqCzen76+ukCIQDg9V82ODM8vzq+uD/Q
+ViU7d8jdaTNTabj3o+xUnNAYSAB2ACJFRQdZVSRWlj+hL/H3bYbgIyZjrcBLf13G
+g1xu4g8CAAABchDhpMsAAAQDAEcwRQIhANPiLijnXSrjDYh9gLseeACSytqIP7nf
+AiGjm5/2IivhAiBSAzfD0JWBxC0w1bk4LC3rNH5Qq5A/v3A5df29koPhWAB0AFGj
+sPX9AXmcVm24N3iPDKR6zBsny/eeiEKaDf7UiwXlAAABchDhpRIAAAQDAEUwQwIf
+c8Oarl2KQNW2HfIqlqHQrSCX29bzBV8Hod8ppp9ZAQIgHMbqlljNNHxJm899GJUR
+TnaJOlMuKXYK5dtbVFjiGbQwDQYJKoZIhvcNAQELBQADggEBACoZBId79DmdA4Qt
+nXAIukf0u/3C/Bs3KMSy2N412WuT+vEPViumZWw+9KWB7M9g4x0PwjJlAnGROmz0
+jeHe7MFKJNB45X5NiFXpsK9SuNkKG2VAJh5tNGvxZ0eJ3PfekbChcqt5tO7qpwif
+pGMVmn7i5UdH7XlZZv8Epv2iGBj4+ETBFw11SkESfUTfDu329gqoQ7RBqnyviuvJ
+SIWKLK/fAVay+4Q2aLH5l32jZsXT5ct/WTH/H/hUJj26bgv9DKawSW97lpLAzwz1
+yo37b3GiRNdMv059RNRsTYI0q6wjSLcMWdoSU3akmOwLc2CEWHb2EapWo6wOLg2G
+Lyfj9/Y=
+-----END CERTIFICATE-----
+---
+Server certificate
+subject=C = PH, L = Quezon City, O = "APO Production Unit, Inc.", OU = Passport Division, CN = *.passport.gov.ph
+
+issuer=C = US, O = DigiCert Inc, CN = DigiCert SHA2 Secure Server CA
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA1
+Peer signature type: RSA
+Server Temp Key: DH, 1024 bits
+---
+SSL handshake has read 2430 bytes and written 511 bytes
+Verification error: unable to verify the first certificate
+---
+New, TLSv1.2, Cipher is DHE-RSA-AES256-GCM-SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+SSL-Session:
+    Protocol  : TLSv1.2
+    Cipher    : DHE-RSA-AES256-GCM-SHA384
+    Session-ID: 771116B1CBE865C1CFC7583310F78B3EA130B65CDE3371AD79CB3A7FFA1C1D2E
+    Session-ID-ctx: 
+    Master-Key: AB8491F7B62CF05B5B98732908EDA1B59E32957F0573F947807BF50AC0ED621FC36C804F65B2BF236F287A1B76E0D8A6
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    Start Time: 1627379378
+    Timeout   : 7200 (sec)
+    Verify return code: 21 (unable to verify the first certificate)
+    Extended master secret: no
+---
